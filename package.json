@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-project",
+  "version": "1.0.0",
+  "description": "A Puppeteer project to control a browser session",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "puppeteer": "22.8.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
